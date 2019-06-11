@@ -1,0 +1,3 @@
+[submodule "emojitalk"]
+	path = emojitalk
+	url = https://github.com/ok2094/emojitalk.git
